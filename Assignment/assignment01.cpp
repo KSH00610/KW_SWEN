@@ -6,6 +6,6 @@
 using namespace std;
 int main()
 {
-    string name = "KIM";
+    string name = "Lee";
     cout << name << endl;
 }
